@@ -6,7 +6,6 @@ zappy_gui
 zappy_ai
 zappy_server
 font.ttf
-README.md
 ia/__pycache__
 socket
 time
