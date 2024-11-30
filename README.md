@@ -51,7 +51,13 @@ make
 ```
 Start
 ```bash
-./zappy_server -p [port] -x [size_map_x] -y [size_map_y] -f [ticks_number] -n [teams_number] -c [player_number_by_team]
+./zappy_server -p [port] -x [size_map_x] -y [size_map_y] -f [ticks_number] -n [teams_name] -c [player_number_by_team]
+```
+```bash
+./zappy_gui
+```
+```bash
+./zappy_ai -p [port] -n [teams_name] -h [ip_of_machine]
 ```
 
 
