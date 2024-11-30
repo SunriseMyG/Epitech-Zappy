@@ -1,0 +1,15 @@
+build
+zappy_gui
+._zappy_gui
+._zappy_server
+zappy_gui
+zappy_ai
+zappy_server
+font.ttf
+README.md
+ia/__pycache__
+socket
+time
+zappy_ia
+assets/
+.vscode
