@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=https://github.com/StevenDeff/Epitech-Zappy/blob/main/screenshots/image.png alt="logo" width=500 height=500 />
+<img src=https://github.com/SunriseMyG/Epitech-Zappy/blob/main/screenshots/image.png alt="logo" width=500 height=500 />
 
 <h1>Zappy Game</h1>
 <p>Zappy is an Epitech project focused on developing a network-based game. Multiple teams compete on a field containing resources. The winning team is the one with at least 6 players who have reached the maximum level. The teams are composed of A.I.s that represent the players.</p>
@@ -21,7 +21,7 @@
 ## :star2: About the Project
 
 ### :camera: Screenshots
-<div align="center"> <a href=""><img src="https://github.com/StevenDeff/Epitech-Zappy/blob/main/screenshots/image.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/SunriseMyG/Epitech-Zappy/blob/main/screenshots/image.png" alt='image' width='800'/></a> </div>
 
 
 ## :toolbox: Getting Started
